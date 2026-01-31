@@ -1,0 +1,22 @@
+# ===== Eclipse =====
+.classpath
+.project
+.settings/
+bin/
+
+# ===== Java =====
+*.class
+
+# ===== Logs =====
+*.log
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE (optional) =====
+.vscode/
+.idea/
+
+# ===== Secrets (IMPORTANT) =====
+*.env
